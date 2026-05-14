@@ -1,0 +1,6 @@
+<screen>
+	<view extends="lv_obj">
+		<lv_button align="left_mid" />
+		<!-- Add your code here -->
+	</view>
+</screen>
